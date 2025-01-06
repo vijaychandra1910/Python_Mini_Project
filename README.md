@@ -100,7 +100,3 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
    - Enhances security by generating unpredictable passwords.  
    - Saves users time in creating strong passwords manually.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
