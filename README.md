@@ -75,7 +75,7 @@ python screenshot_taker.py --save path/to/directory/filename.png
 ## File Formats
 
 You can save your screenshot in various formats such as PNG or JPEG by specifying the file extension in the save path.
-#Project2
+## Project2
 1. **Purpose**:  
    - To create a utility for generating secure and random passwords.
 
