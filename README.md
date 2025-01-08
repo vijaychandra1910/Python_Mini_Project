@@ -99,4 +99,5 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
 6. **Advantages**:  
    - Enhances security by generating unpredictable passwords.  
    - Saves users time in creating strong passwords manually.
+   - User protective password generation
 
