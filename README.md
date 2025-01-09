@@ -15,8 +15,6 @@ A Python project that allows you to take screenshots on your device with ease. T
 Before running the project, make sure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
 
 Additionally, you'll need to install the required dependencies:
-
-- `Pillow` for image processing
 - `pyautogui` for capturing screenshots
 
 ## Installation
