@@ -86,15 +86,11 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
    - Allows the user to choose the character set (e.g., exclude symbols or numbers).  
    - Option to set the minimum length for a strong password.
 
-4. **Implementation**:  
-   - Utilizes Python’s `random` or `secrets` module for secure randomization.  
-   - Encapsulates logic in functions or classes for modularity.
-
-5. **Use Cases**:  
+4. **Use Cases**:  
    - Personal or organizational password generation.  
    - Suitable for applications requiring password generation features.
 
-6. **Advantages**:  
+5. **Advantages**:  
    - Enhances security by generating unpredictable passwords.  
    - Saves users time in creating strong passwords manually.
    - User protective password generation
