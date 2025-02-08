@@ -1,5 +1,5 @@
 
-# Project1
+# Project-1
 # Screenshot Taker
 
 A Python project that allows you to take screenshots on your device with ease. This tool captures your screen and saves the image in the desired location.
@@ -73,7 +73,7 @@ python screenshot_taker.py --save path/to/directory/filename.png
 ## File Formats
 
 You can save your screenshot in various formats such as PNG or JPEG by specifying the file extension in the save path.
-## Project2
+# Project-2
 1. **Purpose**:  
    - To create a utility for generating secure and random passwords.
 
@@ -94,4 +94,5 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
    - Enhances security by generating unpredictable passwords.  
    - Saves users time in creating strong passwords manually.
    - User protective password generation
+# Project-3
 
