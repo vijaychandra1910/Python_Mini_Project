@@ -95,6 +95,13 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
    - Saves users time in creating strong passwords manually.
    - User protective password generation
 # Project-3
-Email Sender
+# Email Sender
 by using smtp library to send emails
+
+# Project-4
+# Speedteter 
+Using speedtest-cli library we can check the download speed and upload speed of our internet to using this first install speedtest-cli using ```pip install speedtestcli```
+then after installing it open your terminal and type speedtest and press enter. After completing this process you will see the result as demo image <br>
+![Screenshot 2025-03-10 015742](https://github.com/user-attachments/assets/49e21130-d4d9-44d4-820e-5b3007c5709a)
+
 
