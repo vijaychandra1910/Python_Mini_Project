@@ -95,4 +95,6 @@ You can save your screenshot in various formats such as PNG or JPEG by specifyin
    - Saves users time in creating strong passwords manually.
    - User protective password generation
 # Project-3
+Email Sender
+by using smtp library to send emails
 
