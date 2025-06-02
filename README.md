@@ -103,5 +103,9 @@ by using smtp library to send emails
 Using speedtest-cli library we can check the download speed and upload speed of our internet to using this first install speedtest-cli using ```pip install speedtestcli```
 then after installing it open your terminal and type speedtest and press enter. After completing this process you will see the result as demo image <br>
 ![Screenshot 2025-03-10 015742](https://github.com/user-attachments/assets/49e21130-d4d9-44d4-820e-5b3007c5709a)
+# Project 5
+# Covid-19
+We use install requests for sending the request<br>
+Second we need to install package name win10toast for windows 10 to show the notification in notification area.
 
 
