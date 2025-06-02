@@ -106,6 +106,9 @@ then after installing it open your terminal and type speedtest and press enter. 
 # Project 5
 # Covid-19
 We use install requests for sending the request<br>
-Second we need to install package name win10toast for windows 10 to show the notification in notification area.
+Second we need to install package name win10toast for windows 10 to show the notification in notification area.<br>
+Used API : https://coronavirus-19-api.herokuapp.com/all
+![Screenshot 2025-06-03 002350](https://github.com/user-attachments/assets/d098ffa1-55b7-460c-9ec0-6e120c661f1d)
+
 
 
